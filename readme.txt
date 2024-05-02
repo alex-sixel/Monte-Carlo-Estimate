@@ -12,14 +12,13 @@ Information about Monte Carlo Simulation:
 Objective:
     - This project uses monte carlo simulation with Triangular or PERT distribution to product estimates according o percentage confidence levels
         - Value range can be currency or hours
-        - Once the application runs
+        - Once the application runs an Excel file is created with the estimates + charts.
+        - Additionally, the image files found in the Excel file are also create
 
 TO-DO list
-    - Images are being created and stored at the folder. May need to remove that depending on what people think of
-    - Create VBA code to run the python code (https://stackoverflow.com/questions/68312525/run-python-script-through-excel-vba)
+    - (Optional) Images are created and stored at the folder. May need to remove that depending on what people think of
+    - Create VBA code that calls the python code (https://stackoverflow.com/questions/68312525/run-python-script-through-excel-vba)
     - Once VBA code finishes, open the copy
 
 Problems: None, so far
-
-test 1 2
 
