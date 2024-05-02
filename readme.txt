@@ -1,0 +1,23 @@
+This project uses the following libs: openpyxl, numpy, pyplot, seaborn, pert
+
+For PERT import, run in project terminal (PyCharm):
+    - pip3 install pertdist (https://pypi.org/project/pertdist/)
+
+Information about PERT/Triangular distribution:
+    - https://www.riskamp.com/beta-pert
+Information about Monte Carlo Simulation:
+    - https://www.ibm.com/topics/monte-carlo-simulation
+
+
+Objective:
+    - This project uses monte carlo simulation with Triangular or PERT distribution to product estimates according o percentage confidence levels
+        - Value range can be currency or hours
+        - Once the application runs
+
+TO-DO list
+    - Images are being created and stored at the folder. May need to remove that depending on what people think of
+    - Create VBA code to run the python code (https://stackoverflow.com/questions/68312525/run-python-script-through-excel-vba)
+    - Once VBA code finishes, open the copy
+
+Problems: None, so far
+
